@@ -33,25 +33,9 @@ const bijaya = {
 
 <div align="center">
 
-### ✦ Design
-![Figma](https://img.shields.io/badge/Figma-0c0c0d?style=for-the-badge&logo=figma&logoColor=ff3e3e)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0c0c0d?style=for-the-badge&logo=adobexd&logoColor=ff3e3e)
-![Design Systems](https://img.shields.io/badge/Design_Systems-0c0c0d?style=for-the-badge&logo=storybook&logoColor=ff3e3e)
-![Prototyping](https://img.shields.io/badge/Prototyping-0c0c0d?style=for-the-badge&logo=framer&logoColor=ff3e3e)
-
-### ✦ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-0c0c0d?style=for-the-badge&logo=nextdotjs&logoColor=ff3e3e)
-![React](https://img.shields.io/badge/React-0c0c0d?style=for-the-badge&logo=react&logoColor=ff3e3e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0c0c0d?style=for-the-badge&logo=typescript&logoColor=ff3e3e)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0c0c0d?style=for-the-badge&logo=tailwindcss&logoColor=ff3e3e)
-![GSAP](https://img.shields.io/badge/GSAP-0c0c0d?style=for-the-badge&logo=greensock&logoColor=ff3e3e)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0c0c0d?style=for-the-badge&logo=framer&logoColor=ff3e3e)
-
-### ✦ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0c0c0d?style=for-the-badge&logo=nodedotjs&logoColor=ff3e3e)
-![Express.js](https://img.shields.io/badge/Express.js-0c0c0d?style=for-the-badge&logo=express&logoColor=ff3e3e)
-![MongoDB](https://img.shields.io/badge/MongoDB-0c0c0d?style=for-the-badge&logo=mongodb&logoColor=ff3e3e)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0c0c0d?style=for-the-badge&logo=postman&logoColor=ff3e3e)
+| ✦ Design | ✦ Frontend | ✦ Backend |
+|:---:|:---:|:---:|
+| ![Figma](https://img.shields.io/badge/Figma-0c0c0d?style=for-the-badge&logo=figma&logoColor=ff3e3e) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-0c0c0d?style=for-the-badge&logo=adobexd&logoColor=ff3e3e) ![Design Systems](https://img.shields.io/badge/Design_Systems-0c0c0d?style=for-the-badge&logo=storybook&logoColor=ff3e3e) | ![Next.js](https://img.shields.io/badge/Next.js-0c0c0d?style=for-the-badge&logo=nextdotjs&logoColor=ff3e3e) ![React](https://img.shields.io/badge/React-0c0c0d?style=for-the-badge&logo=react&logoColor=ff3e3e) ![TypeScript](https://img.shields.io/badge/TypeScript-0c0c0d?style=for-the-badge&logo=typescript&logoColor=ff3e3e) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0c0c0d?style=for-the-badge&logo=tailwindcss&logoColor=ff3e3e) ![GSAP](https://img.shields.io/badge/GSAP-0c0c0d?style=for-the-badge&logo=greensock&logoColor=ff3e3e) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0c0c0d?style=for-the-badge&logo=framer&logoColor=ff3e3e) | ![Node.js](https://img.shields.io/badge/Node.js-0c0c0d?style=for-the-badge&logo=nodedotjs&logoColor=ff3e3e) ![Express.js](https://img.shields.io/badge/Express.js-0c0c0d?style=for-the-badge&logo=express&logoColor=ff3e3e) ![MongoDB](https://img.shields.io/badge/MongoDB-0c0c0d?style=for-the-badge&logo=mongodb&logoColor=ff3e3e) ![REST APIs](https://img.shields.io/badge/REST_APIs-0c0c0d?style=for-the-badge&logo=postman&logoColor=ff3e3e) |
 
 </div>
 
@@ -61,8 +45,8 @@ const bijaya = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=bijaya-dev07"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
+<img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>
+<img width="49%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
 
 <br/><br/>
 
@@ -74,34 +58,66 @@ const bijaya = {
 
 ## 〔 04 〕 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%">
 
-<a href="https://github.com/bijaya-dev07/bijaya-eight">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=bijaya-eight&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888"/>
-</a>
-<a href="https://github.com/bijaya-dev07/REPO_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=REPO_2&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888"/>
-</a>
+### 🚀 [Bijaya Eight](https://github.com/bijaya-dev07/bijaya-eight)
+**Portfolio & Showcase**
 
-<a href="https://github.com/bijaya-dev07/REPO_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=REPO_3&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888"/>
-</a>
-<a href="https://github.com/bijaya-dev07/REPO_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=REPO_4&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888"/>
-</a>
+Interactive portfolio website with GSAP animations and modern design. Features smooth interactions, responsive layout, and optimized performance.
 
-</div>
+```
+Next.js • React • Tailwind • GSAP
+```
+
+</td>
+<td width="50%">
+
+### 💻 [MERN Stack Apps](https://github.com/bijaya-dev07)
+**Full-Stack Development**
+
+Production-ready applications with user authentication, real-time updates, and RESTful APIs. Built with modern architecture and best practices.
+
+```
+React • Node.js • Express • MongoDB
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 [Design Systems](https://github.com/bijaya-dev07)
+**Component Library**
+
+Well-documented React components with Storybook integration. Ensures design consistency and accelerates development across projects.
+
+```
+React • TypeScript • Storybook • Tailwind
+```
+
+</td>
+<td width="50%">
+
+### ⚡ [Web Applications](https://github.com/bijaya-dev07)
+**Modern Frontend**
+
+Advanced applications with SSR, image optimization, and seamless API integration. Demonstrates cutting-edge React patterns.
+
+```
+Next.js • TypeScript • Tailwind • APIs
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=555555&center=true&vCenter=true&width=540&lines=Open+to+freelance+%26+collaborations+%E2%80%94+let%27s+build+something+unforgettable.)](https://git.io/typing-svg)
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff3e3e?style=for-the-badge&logo=vercel&logoColor=white)](https://bijaya-eight.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-1c1c1e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bijaya-dev07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijaya-dev07)
 
 </div>
