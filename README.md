@@ -58,20 +58,60 @@ const bijaya = {
 
 ## 〔 04 〕 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%">
 
-<a href="https://github.com/bijaya-dev07/bijaya-eight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=bijaya-eight&hide_border=true&bg_color=0c0c0d&title_color=ff3e3e&icon_color=ff3e3e&text_color=888888"/>
-</a>
-<a href="https://github.com/bijaya-dev07/bijaya-dev07">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=bijaya-dev07&hide_border=true&bg_color=0c0c0d&title_color=ff3e3e&icon_color=ff3e3e&text_color=888888"/>
-</a>
+### 🚀 [Bijaya Eight](https://github.com/bijaya-dev07/bijaya-eight)
+**Portfolio & Showcase**
 
-</div>
+Interactive portfolio website with GSAP animations and modern design. Features smooth interactions, responsive layout, and optimized performance.
 
-<br/>
+```
+Next.js • React • Tailwind • GSAP
+```
 
-> 💻 &nbsp; *Explore more on my [GitHub Repositories](https://github.com/bijaya-dev07?tab=repositories)*
+</td>
+<td width="50%">
+
+### 💻 [MERN Stack Apps](https://github.com/bijaya-dev07)
+**Full-Stack Development**
+
+Production-ready applications with user authentication, real-time updates, and RESTful APIs. Built with modern architecture and best practices.
+
+```
+React • Node.js • Express • MongoDB
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 [Design Systems](https://github.com/bijaya-dev07)
+**Component Library**
+
+Well-documented React components with Storybook integration. Ensures design consistency and accelerates development across projects.
+
+```
+React • TypeScript • Storybook • Tailwind
+```
+
+</td>
+<td width="50%">
+
+### ⚡ [Web Applications](https://github.com/bijaya-dev07)
+**Modern Frontend**
+
+Advanced applications with SSR, image optimization, and seamless API integration. Demonstrates cutting-edge React patterns.
+
+```
+Next.js • TypeScript • Tailwind • APIs
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
