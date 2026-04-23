@@ -45,8 +45,8 @@ const bijaya = {
 
 <div align="center">
 
-<img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>
-<img width="49%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
 
 <br/><br/>
 
@@ -58,60 +58,32 @@ const bijaya = {
 
 ## 〔 04 〕 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🚀 [Bijaya Eight](https://github.com/bijaya-dev07/bijaya-eight)
-**Portfolio & Showcase**
+<a href="https://github.com/bijaya-dev07/bijaya-eight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=bijaya-eight&hide_border=true&bg_color=0c0c0d&title_color=ff3e3e&icon_color=ff3e3e&text_color=888888"/>
+</a>
+<a href="https://github.com/bijaya-dev07/bijaya-dev07">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bijaya-dev07&repo=bijaya-dev07&hide_border=true&bg_color=0c0c0d&title_color=ff3e3e&icon_color=ff3e3e&text_color=888888"/>
+</a>
 
-Interactive portfolio website with GSAP animations and modern design. Features smooth interactions, responsive layout, and optimized performance.
+</div>
 
-```
-Next.js • React • Tailwind • GSAP
-```
+<br/>
 
-</td>
-<td width="50%">
+> 💻 &nbsp; *Explore more on my [GitHub Repositories](https://github.com/bijaya-dev07?tab=repositories)*
 
-### 💻 [MERN Stack Apps](https://github.com/bijaya-dev07)
-**Full-Stack Development**
+---
 
-Production-ready applications with user authentication, real-time updates, and RESTful APIs. Built with modern architecture and best practices.
+## 〔 05 〕 Contribution Snake
 
-```
-React • Node.js • Express • MongoDB
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 [Design Systems](https://github.com/bijaya-dev07)
-**Component Library**
-
-Well-documented React components with Storybook integration. Ensures design consistency and accelerates development across projects.
-
-```
-React • TypeScript • Storybook • Tailwind
-```
-
-</td>
-<td width="50%">
-
-### ⚡ [Web Applications](https://github.com/bijaya-dev07)
-**Modern Frontend**
-
-Advanced applications with SSR, image optimization, and seamless API integration. Demonstrates cutting-edge React patterns.
-
-```
-Next.js • TypeScript • Tailwind • APIs
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
