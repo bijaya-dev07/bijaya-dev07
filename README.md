@@ -45,12 +45,7 @@ const bijaya = {
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bijaya-dev07&bg_color=0c0c0d&color=888888&line=ff3e3e&point=ffffff&area=true&area_color=ff3e3e&hide_border=true&custom_title=Contribution+Activity"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>&nbsp;&nbsp;<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
 
 </div>
 
@@ -58,56 +53,48 @@ const bijaya = {
 
 ## 〔 04 〕 Featured Projects
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #0c0c0d; border: 1px solid #ff3e3e; border-radius: 8px; padding: 16px;">
 
-### 🚀 [Bijaya Eight](https://github.com/bijaya-dev07/bijaya-eight)
-**Portfolio & Showcase**
+### <span style="color:#FF6B6B">🚀</span> [Bijaya Eight](https://github.com/bijaya-dev07/bijaya-eight)
+<span style="color:#FF6B6B">**Portfolio & Showcase**</span>
 
 Interactive portfolio website with GSAP animations and modern design. Features smooth interactions, responsive layout, and optimized performance.
 
-```
-Next.js • React • Tailwind • GSAP
-```
+![Next.js](https://img.shields.io/badge/Next.js-0c0c0d?style=flat-square&logo=nextdotjs&logoColor=FF6B6B) ![React](https://img.shields.io/badge/React-0c0c0d?style=flat-square&logo=react&logoColor=FF6B6B) ![Tailwind](https://img.shields.io/badge/Tailwind-0c0c0d?style=flat-square&logo=tailwindcss&logoColor=FF6B6B) ![GSAP](https://img.shields.io/badge/GSAP-0c0c0d?style=flat-square&logo=greensock&logoColor=FF6B6B)
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #0c0c0d; border: 1px solid #ff3e3e; border-radius: 8px; padding: 16px;">
 
-### 💻 [MERN Stack Apps](https://github.com/bijaya-dev07)
-**Full-Stack Development**
+### <span style="color:#FF6B6B">💻</span> [MERN Stack Apps](https://github.com/bijaya-dev07)
+<span style="color:#FF6B6B">**Full-Stack Development**</span>
 
 Production-ready applications with user authentication, real-time updates, and RESTful APIs. Built with modern architecture and best practices.
 
-```
-React • Node.js • Express • MongoDB
-```
+![React](https://img.shields.io/badge/React-0c0c0d?style=flat-square&logo=react&logoColor=FF6B6B) ![Node.js](https://img.shields.io/badge/Node.js-0c0c0d?style=flat-square&logo=nodedotjs&logoColor=FF6B6B) ![Express](https://img.shields.io/badge/Express-0c0c0d?style=flat-square&logo=express&logoColor=FF6B6B) ![MongoDB](https://img.shields.io/badge/MongoDB-0c0c0d?style=flat-square&logo=mongodb&logoColor=FF6B6B)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #0c0c0d; border: 1px solid #ff3e3e; border-radius: 8px; padding: 16px;">
 
-### 🎨 [Design Systems](https://github.com/bijaya-dev07)
-**Component Library**
+### <span style="color:#FF6B6B">🎨</span> [Design Systems](https://github.com/bijaya-dev07)
+<span style="color:#FF6B6B">**Component Library**</span>
 
 Well-documented React components with Storybook integration. Ensures design consistency and accelerates development across projects.
 
-```
-React • TypeScript • Storybook • Tailwind
-```
+![React](https://img.shields.io/badge/React-0c0c0d?style=flat-square&logo=react&logoColor=FF6B6B) ![TypeScript](https://img.shields.io/badge/TypeScript-0c0c0d?style=flat-square&logo=typescript&logoColor=FF6B6B) ![Storybook](https://img.shields.io/badge/Storybook-0c0c0d?style=flat-square&logo=storybook&logoColor=FF6B6B) ![Tailwind](https://img.shields.io/badge/Tailwind-0c0c0d?style=flat-square&logo=tailwindcss&logoColor=FF6B6B)
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #0c0c0d; border: 1px solid #ff3e3e; border-radius: 8px; padding: 16px;">
 
-### ⚡ [Web Applications](https://github.com/bijaya-dev07)
-**Modern Frontend**
+### <span style="color:#FF6B6B">⚡</span> [Web Applications](https://github.com/bijaya-dev07)
+<span style="color:#FF6B6B">**Modern Frontend**</span>
 
 Advanced applications with SSR, image optimization, and seamless API integration. Demonstrates cutting-edge React patterns.
 
-```
-Next.js • TypeScript • Tailwind • APIs
-```
+![Next.js](https://img.shields.io/badge/Next.js-0c0c0d?style=flat-square&logo=nextdotjs&logoColor=FF6B6B) ![TypeScript](https://img.shields.io/badge/TypeScript-0c0c0d?style=flat-square&logo=typescript&logoColor=FF6B6B) ![Tailwind](https://img.shields.io/badge/Tailwind-0c0c0d?style=flat-square&logo=tailwindcss&logoColor=FF6B6B) ![APIs](https://img.shields.io/badge/REST_APIs-0c0c0d?style=flat-square&logo=postman&logoColor=FF6B6B)
 
 </td>
 </tr>
