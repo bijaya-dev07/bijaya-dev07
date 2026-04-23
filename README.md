@@ -43,16 +43,10 @@ const bijaya = {
 
 ## 〔 03 〕 GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bijaya-dev07&show_icons=true&hide_border=true&bg_color=0c0c0d&title_color=ffffff&icon_color=ff3e3e&text_color=888888&ring_color=ff3e3e&hide=issues&custom_title=GitHub%20Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
+</div>
 
 ---
 
