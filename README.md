@@ -103,17 +103,15 @@ Advanced applications with SSR, image optimization, and seamless API integration
 
 ---
 
-## 〔 05 〕 Contribution Snake
+
+## 〔 05 〕 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijaya-dev07&bg_color=0c0c0d&color=888888&line=ff3e3e&point=ffffff&area=true&area_color=ff3e3e&hide_border=true" width="100%" />
 </div>
 
 ---
+## 〔 05 〕Connect With Me
 
 <div align="center">
 
