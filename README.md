@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3E3E&center=true&vCenter=true&width=600&lines=I+build+interfaces+that+feel+alive.;Clean+engineering+%2B+expressive+design.;Available+for+work+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3E3E&center=true&vCenter=true&width=600&lines=I+build+interfaces+that+feel+alive.;Clean+engineering+%2B+expressive+design.;)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 ```js
 const bijaya = {
   role     : "Aspiring Full-Stack Developer",
-  location : "Kathmandu, Nepal 🇳🇵",
+  location : "Kathmandu, Nepal",
   passion  : "Building things that make people say 'wow'",
   crafting : ["GSAP animations", "MERN apps", "Design Systems"],
   believe  : "Best products = Beautiful Design + Solid Engineering",
